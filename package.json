@@ -5,6 +5,9 @@
     "license": "MIT",
     "repository": "billmakes/tojs",
     "main": "index.js",
+    "dependencies": {
+        "intersection-observer": "^0.5.1"
+      },
     "keywords": [
         "transform",
         "scroll",
