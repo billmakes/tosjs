@@ -1,6 +1,6 @@
 {
-    "name": "@billmakes/tosjs",
-    "version": "1.0.2",
+    "name": "tosjs",
+    "version": "1.0.3",
     "description": "Uses IntersectionObserver to create animations on scroll",
     "license": "MIT",
     "repository": "billmakes/tojs",
